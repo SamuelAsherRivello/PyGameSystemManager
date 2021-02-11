@@ -33,5 +33,19 @@ I created this during my first week of learning Python. I bring 19+ years of gam
 Created By
 =============
 
-- Samuel Asher Rivello: <a href="https://twitter.com/srivello/" target="_blank">@srivello</a>, <a href="http://www.github.com/RivelloMultimediaConsulting/" target="_blank">Github</a>, <a href="http://RivelloMultimediaConsulting.com/unity/" target="_blank">RivelloMultimediaConsulting.com</a>, <a href="http://www.SamuelAsherRivello.com" target="_blank">SamuelAsherRivello.com</a>
+- Samuel Asher Rivello 
+- Over 20 years XP with game development (2020)
+- Over 8 years XP with Unity (2020)
+
+Contact
+=============
+
+- Twitter - <a href="https://twitter.com/srivello/">@srivello</a>
+- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
+- Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
+- LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
+
+
+
+
 
